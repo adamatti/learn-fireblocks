@@ -1,0 +1,8 @@
+build/
+keys/
+node_modules/
+
+binance.ts
+.env
+
+*.log
